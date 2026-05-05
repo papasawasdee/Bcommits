@@ -59,3 +59,4 @@ Morpho
 Kaspa
 DeXe
 Ethena
+GateToken
