@@ -60,3 +60,4 @@ Kaspa
 DeXe
 Ethena
 GateToken
+Quant
