@@ -25,3 +25,4 @@ Ethena USDe
 Hedera
 Sui
 Shiba Inu
+MemeCore
