@@ -3,3 +3,4 @@ Ethereum
 Tether
 XRP
 BNB
+USDC
