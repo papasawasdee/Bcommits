@@ -97,3 +97,4 @@ Decentraland
 Tezos
 Chiliz
 Axie Infinity
+The Sandbox
