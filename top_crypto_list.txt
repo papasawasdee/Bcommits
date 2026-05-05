@@ -46,3 +46,4 @@ Ripple USD
 Ondo
 USDD
 Bitget Token
+Aave
