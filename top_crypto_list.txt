@@ -45,3 +45,4 @@ NEAR Protocol
 Ripple USD
 Ondo
 USDD
+Bitget Token
