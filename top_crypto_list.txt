@@ -57,3 +57,4 @@ Cosmos
 Render
 Morpho
 Kaspa
+DeXe
