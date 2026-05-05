@@ -77,3 +77,4 @@ XDC Network
 Jupiter
 Nexo
 Terra Classic
+siren
