@@ -49,3 +49,4 @@ Bitget Token
 Aave
 Ethereum Classic
 Internet Computer
+KuCoin Token
