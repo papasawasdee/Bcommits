@@ -86,3 +86,4 @@ BUIDL
 TrueUSD
 Gnosis
 The Graph
+Fantom
