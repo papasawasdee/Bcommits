@@ -76,3 +76,4 @@ Pump.fun
 XDC Network
 Jupiter
 Nexo
+Terra Classic
