@@ -65,3 +65,4 @@ Worldcoin
 Aptos
 Stable
 Filecoin
+JUST
