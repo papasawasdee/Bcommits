@@ -4,3 +4,4 @@ Tether
 XRP
 BNB
 USDC
+Solana
