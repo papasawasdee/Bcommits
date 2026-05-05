@@ -99,3 +99,4 @@ Chiliz
 Axie Infinity
 The Sandbox
 Monad
+SPX6900
