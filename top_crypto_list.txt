@@ -34,3 +34,4 @@ Global Dollar
 PAX Gold
 Mantle
 Uniswap
+Polkadot
