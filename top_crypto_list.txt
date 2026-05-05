@@ -47,3 +47,4 @@ Ondo
 USDD
 Bitget Token
 Aave
+Ethereum Classic
