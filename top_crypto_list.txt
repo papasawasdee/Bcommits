@@ -58,3 +58,4 @@ Render
 Morpho
 Kaspa
 DeXe
+Ethena
