@@ -37,3 +37,4 @@ Uniswap
 Polkadot
 World Liberty Financial
 Pi
+Sky
