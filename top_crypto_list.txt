@@ -11,3 +11,4 @@ Hyperliquid
 LEO
 Cardano
 Bitcoin Cash
+Monero
