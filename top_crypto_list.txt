@@ -16,3 +16,4 @@ Zcash
 Chainlink
 Canton
 Dai
+Stellar
