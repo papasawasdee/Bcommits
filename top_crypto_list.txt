@@ -96,3 +96,4 @@ Neo
 Decentraland
 Tezos
 Chiliz
+Axie Infinity
