@@ -33,3 +33,4 @@ Tether Gold
 Global Dollar
 PAX Gold
 Mantle
+Uniswap
