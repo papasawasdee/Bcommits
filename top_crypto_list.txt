@@ -56,3 +56,4 @@ Algorand
 Cosmos
 Render
 Morpho
+Kaspa
