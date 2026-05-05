@@ -88,3 +88,4 @@ Gnosis
 The Graph
 Fantom
 Theta Network
+ThorChain
