@@ -12,3 +12,4 @@ LEO
 Cardano
 Bitcoin Cash
 Monero
+Zcash
