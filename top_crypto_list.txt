@@ -32,3 +32,4 @@ Cronos
 Tether Gold
 Global Dollar
 PAX Gold
+Mantle
