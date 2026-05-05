@@ -9,3 +9,4 @@ TRON
 Dogecoin
 Hyperliquid
 LEO
+Cardano
