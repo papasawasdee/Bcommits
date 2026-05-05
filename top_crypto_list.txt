@@ -72,3 +72,4 @@ Flare
 Pudgy Penguins
 VeChain
 Dash
+Pump.fun
