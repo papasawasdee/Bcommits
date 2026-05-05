@@ -31,3 +31,4 @@ Bittensor
 Cronos
 Tether Gold
 Global Dollar
+PAX Gold
