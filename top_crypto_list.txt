@@ -30,3 +30,4 @@ PayPal USD
 Bittensor
 Cronos
 Tether Gold
+Global Dollar
