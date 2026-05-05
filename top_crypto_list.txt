@@ -62,3 +62,4 @@ Ethena
 GateToken
 Quant
 Worldcoin
+Aptos
