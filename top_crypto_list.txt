@@ -5,3 +5,4 @@ XRP
 BNB
 USDC
 Solana
+TRON
