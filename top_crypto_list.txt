@@ -91,3 +91,4 @@ Theta Network
 ThorChain
 Arweave
 IOTA
+Kava
