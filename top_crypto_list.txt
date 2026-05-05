@@ -93,3 +93,4 @@ Arweave
 IOTA
 Kava
 Neo
+Decentraland
