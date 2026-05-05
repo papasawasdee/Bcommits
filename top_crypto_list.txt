@@ -68,3 +68,4 @@ Filecoin
 JUST
 Arbitrum
 SKYAI
+Flare
