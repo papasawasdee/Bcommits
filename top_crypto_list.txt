@@ -66,3 +66,4 @@ Aptos
 Stable
 Filecoin
 JUST
+Arbitrum
