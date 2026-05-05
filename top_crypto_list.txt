@@ -48,3 +48,4 @@ USDD
 Bitget Token
 Aave
 Ethereum Classic
+Internet Computer
