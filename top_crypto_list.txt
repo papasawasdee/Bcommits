@@ -92,3 +92,4 @@ ThorChain
 Arweave
 IOTA
 Kava
+Neo
