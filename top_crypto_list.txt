@@ -18,3 +18,4 @@ Canton
 Dai
 Stellar
 World Liberty Financial USD
+Toncoin
