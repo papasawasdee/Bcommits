@@ -98,3 +98,4 @@ Tezos
 Chiliz
 Axie Infinity
 The Sandbox
+Monad
