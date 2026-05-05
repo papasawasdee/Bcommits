@@ -63,3 +63,4 @@ GateToken
 Quant
 Worldcoin
 Aptos
+Stable
