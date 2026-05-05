@@ -13,3 +13,4 @@ Cardano
 Bitcoin Cash
 Monero
 Zcash
+Chainlink
