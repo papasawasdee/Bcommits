@@ -75,3 +75,4 @@ Dash
 Pump.fun
 XDC Network
 Jupiter
+Nexo
