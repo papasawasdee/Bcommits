@@ -24,3 +24,4 @@ Avalanche
 Ethena USDe
 Hedera
 Sui
+Shiba Inu
