@@ -14,3 +14,4 @@ Bitcoin Cash
 Monero
 Zcash
 Chainlink
+Canton
