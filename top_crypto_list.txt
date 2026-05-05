@@ -53,3 +53,4 @@ KuCoin Token
 United Stables
 Polygon
 Algorand
+Cosmos
