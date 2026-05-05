@@ -19,3 +19,4 @@ Dai
 Stellar
 World Liberty Financial USD
 Toncoin
+Litecoin
