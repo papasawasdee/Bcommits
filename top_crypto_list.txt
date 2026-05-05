@@ -84,3 +84,4 @@ TRUMP
 Maker
 BUIDL
 TrueUSD
+Gnosis
