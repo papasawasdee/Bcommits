@@ -42,3 +42,4 @@ OKB
 Aster
 Pepe
 NEAR Protocol
+Ripple USD
