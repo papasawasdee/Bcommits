@@ -74,3 +74,4 @@ VeChain
 Dash
 Pump.fun
 XDC Network
+Jupiter
