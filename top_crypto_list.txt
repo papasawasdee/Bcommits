@@ -10,3 +10,4 @@ Dogecoin
 Hyperliquid
 LEO
 Cardano
+Bitcoin Cash
