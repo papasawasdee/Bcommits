@@ -43,3 +43,4 @@ Aster
 Pepe
 NEAR Protocol
 Ripple USD
+Ondo
