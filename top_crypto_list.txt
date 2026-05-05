@@ -44,3 +44,4 @@ Pepe
 NEAR Protocol
 Ripple USD
 Ondo
+USDD
