@@ -78,3 +78,4 @@ Jupiter
 Nexo
 Terra Classic
 siren
+Bonk
