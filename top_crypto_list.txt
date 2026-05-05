@@ -67,3 +67,4 @@ Stable
 Filecoin
 JUST
 Arbitrum
+SKYAI
