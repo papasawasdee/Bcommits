@@ -29,3 +29,4 @@ MemeCore
 PayPal USD
 Bittensor
 Cronos
+Tether Gold
