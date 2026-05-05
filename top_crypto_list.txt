@@ -51,3 +51,4 @@ Ethereum Classic
 Internet Computer
 KuCoin Token
 United Stables
+Polygon
