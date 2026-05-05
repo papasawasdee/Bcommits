@@ -2,3 +2,4 @@ Bitcoin
 Ethereum
 Tether
 XRP
+BNB
