@@ -87,3 +87,4 @@ TrueUSD
 Gnosis
 The Graph
 Fantom
+Theta Network
