@@ -70,3 +70,4 @@ Arbitrum
 SKYAI
 Flare
 Pudgy Penguins
+VeChain
