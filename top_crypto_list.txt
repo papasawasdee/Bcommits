@@ -94,3 +94,4 @@ IOTA
 Kava
 Neo
 Decentraland
+Tezos
